@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.dcu
+*.exe
+*.dproj.local
+*.identcache
+__history/
